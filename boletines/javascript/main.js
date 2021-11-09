@@ -13,7 +13,7 @@ links.forEach(function(link){
 		content.classList.add("animate__fadeOutUp");
 
 		setTimeout(function(){
-			location.href ="./boletines";
+			location.href ="/boletines";
 		},600);
 
 		
